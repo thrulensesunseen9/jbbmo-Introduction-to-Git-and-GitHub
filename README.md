@@ -13,6 +13,4 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2023 XYZ, Inc._
-
-//Updated the year. I believe it is important to follow instructions precisely.//
+_© 2022 XYZ, Inc._
